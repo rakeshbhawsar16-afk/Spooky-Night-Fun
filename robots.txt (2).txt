@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://spooky-night-fun-tawny.vercel.app/sitemap.xml
